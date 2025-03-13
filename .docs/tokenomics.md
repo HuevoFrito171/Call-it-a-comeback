@@ -22,8 +22,9 @@ CIC is a Solana-powered token with a fixed **100 billion token supply**, built t
 
 2. **Support Fund (10%)**
    - Held in a multi-sig wallet or smart contract.
-   - Weekly payout: ~10M CIC to the community-voted winner (10B ÷ 10M = ~1,000 weeks, or 19 years).
+   - Weekly payout: Winners purse.
    - Flexible: Community can tweak payout size via vote.
+   - Community decides what to do end of year if theres leftover
 
 3. **Community Rewards (15%)**
    - Airdrops, staking, or tasks (e.g., “Nominate 3 projects, get 500 CIC”).
@@ -33,6 +34,7 @@ CIC is a Solana-powered token with a fixed **100 billion token supply**, built t
 4. **Team (15%)**
    - Locked with vesting (e.g., 20% yearly over 5 years).
    - For devs, community leads, legal—aligned with the comeback mission.
+   - All contributors can have claim
 
 5. **Community Decision (10%)**
    - Controlled by CIC holders via on-chain voting (e.g., Snapshot or custom contract).
